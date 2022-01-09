@@ -1,4 +1,4 @@
-## Olá, sou Éverton! Estou sempre envolvido em algum projeto.
+## Estou sempre envolvido em algum projeto.
 
 <div align="center">
   <a href="https://github.com/EvertonDev2002">
